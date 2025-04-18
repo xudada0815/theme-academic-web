@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 徐一博
+title: 徐 一 博
 
 # Name pronunciation (optional)
-name_pronunciation: Yi Bo Xu
+name_pronunciation: Yibo Xu
 
 # Full name (for SEO)
 first_name: Yibo
@@ -22,27 +22,18 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: WuHan University
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '2024101050035@whu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4985-1936
 
 interests:
   - Artificial Intelligence
