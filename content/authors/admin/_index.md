@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 徐 一 博
+title: 徐 一博
 
 # Name pronunciation (optional)
-name_pronunciation: Yibo Xu
+name_pronunciation: Yibo Xu 
 
 # Full name (for SEO)
 first_name: Yibo
@@ -23,7 +23,7 @@ role: Chief Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: WuHan University
-    url: https://openai.com/
+    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,9 +36,9 @@ profiles:
     url: https://orcid.org/0000-0002-4985-1936
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Corporate Fiance
+  - Credit Policy
+  - Supply Chain
 
 education:
   - area: PhD Artificial Intelligence
