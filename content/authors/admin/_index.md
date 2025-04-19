@@ -18,11 +18,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: WuHan University
+  - name: Wuhan University
     
 
 # Social network links
@@ -41,19 +41,18 @@ interests:
   - Supply Chain
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Student Finance
+    institution: Wuhan University
+    date_start: 2024-09-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Applied Economics
+    institution: University of Shanghai for Science and Technology
+    date_start: 2021-09-01
+    date_end: 2024-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -61,10 +60,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEc Mathematics of Finance
+    institution: Zhengzhou University
+    date_start: 2017-09-01
+    date_end: 2021-06-01
     summary: |
       GPA: 3.4/4.0
       
